@@ -1,0 +1,29 @@
+Things to Do :
+
+1. centercrop + scale + no mean subtraction + adam + 224x224 + NO CLASS WEIGHTS === DONE 
+		VALID: acc = 0.59 ,   loss = 1.0951 
+		TRAIN: acc = 0.5026 , loss = 1.7411
+		SCORE: max_val = 1.09620   , final_epoch = 1.09604
+
+2. centercrop + scale + dataset mean subtract + adam + 224x224 === DONE (VALID: val acc = 0.565 , val loss = 1.0942) (TRAIN: trainloss : 1.7170, trainacc: 0.5371) (score: finalepoch: 2.60710, max_val: 2.805)
+
+3. no crop + scale + no mean sub + adam + 224 == DONE (VALID: val acc = 0.36 , val loss = 10.3136) (TRAIN: trainloss : 16.544, trainacc: 0.3174)
+	(score: finalepoch: , max_val: )
+
+4. no crop + scale + dataset mean sub + adam + 224 == (SKIPPING)
+
+3. centercrop +scale +  no mean subtraction + adam + 400x400 + NO CLASS WEIGHTS === NOT GOOD
+		VALID: acc = 0.58 ,   loss = 6.7696
+		TRAIN: acc = 0.51 , loss = 17.1841
+		SCORE: max_val =    , final_epoch = 
+
+
+#NOTE:
+Cropping = Good! 
+Scaling  = Good!
+Mean subtraction = Not Good
+adam = Good! 
+image size = 224
+
+ Dropout Experiments :
+Run on 10 epochs for training set, check acc on validation set 
