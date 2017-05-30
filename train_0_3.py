@@ -122,8 +122,7 @@ def main():
 						steps_per_epoch=ceil(float(_num_train)/BATCH_SIZE), 
 						epochs=NUM_EPOCHS,
 						validation_data=valid_datagen,
-						validation_steps=ceil(float(_num_valid)/BATCH_SIZE),
-						callbacks=[val_acc_checkpoint, val_loss_checkpoint]
+						validation_steps=ceil(float(_num_valid)/BATCH_SIZE)
 						)
 
 	# save the last one 
