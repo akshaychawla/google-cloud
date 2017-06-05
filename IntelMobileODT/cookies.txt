@@ -1,0 +1,25 @@
+# Cookies for domains related to nvidia.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://developer.nvidia.com/rdp/cudnn-download
+#
+.nvidia.com	TRUE	/	FALSE	0	AMCVS_F207D74D549850760A4C98C6%40AdobeOrg	1
+devblogs.nvidia.com	FALSE	/	FALSE	1559072820	__atuvc	1%7C22
+devblogs.nvidia.com	FALSE	/	FALSE	1559072820	__atssc	reddit%3B1
+www.nvidia.com	FALSE	/	FALSE	1559073172	__atuvc	1%7C22
+.nvidia.com	TRUE	/	FALSE	1497210779	mbox	check#true#1496001239|session#02f6ba83e2b64db4832dc8ed16e8d4fc#1496003039|PC#02f6ba83e2b64db4832dc8ed16e8d4fc.22_23#1497210779
+www.nvidia.com	FALSE	/	FALSE	0	_sdsat_authStage	guest
+.nvidia.com	TRUE	/	FALSE	1519842600	__unam	4d8c667-15c509e470f-43d2b27e-4
+.nvidia.com	TRUE	/	FALSE	0	tp	2436
+.nvidia.com	TRUE	/	FALSE	1498593180	aam_uuid	82696021940901818904146360170894403303
+.nvidia.com	TRUE	/	FALSE	1559327780	AMCV_F207D74D549850760A4C98C6%40AdobeOrg	1099438348%7CMCIDTS%7C17317%7CMCMID%7C82712853406616169044143542328104874733%7CMCAAMLH-1496605618%7C3%7CMCAAMB-1496860580%7CNRX38WO0n5BH8Th-nqAG_A%7CMCOPTOUT-1496262980s%7CNONE%7CMCAID%7CNONE%7CMCSYNCSOP%7C411-17322%7CvVersion%7C2.1.0
+.developer.nvidia.com	TRUE	/	TRUE	1498255786.312169	SSESS2088448faf607a381892ca97487fa4c7	R_VsWBnzqyWhQbZdfMsM4FHAJus7wmWOqdSscf-1YDs
+.nvidia.com	TRUE	/	FALSE	1496257453	_gat	1
+developer.nvidia.com	FALSE	/	FALSE	0	has_js	1
+.nvidia.com	TRUE	/	FALSE	1559329413	_ga	GA1.2.1548201845.1496000818
+.nvidia.com	TRUE	/	FALSE	1496343813	_gid	GA1.2.1155518329.1496171152
+.nvidia.com	TRUE	/	FALSE	0	s_cc	true
+.nvidia.com	TRUE	/	FALSE	0	s_ppvl	nv%253Adeveloper%253Anvidia%253Ardp%253Acudnn-download%2C100%2C100%2C990%2C1857%2C990%2C1920%2C1080%2C1%2CP
+.nvidia.com	TRUE	/	FALSE	1496259219	gpv_p45	nv%3Adeveloper%3Anvidia%3Ardp%3Acudnn-download
+.nvidia.com	TRUE	/	FALSE	1498849419	s_getNewRepeat	1496257419848-Repeat
+.nvidia.com	TRUE	/	FALSE	0	s_sq	nvdadeveloper%252Cnvdaglobalprod%3D%2526pid%253Dnv%25253Adeveloper%25253Anvidia%25253Ardp%25253Acudnn-download%2526pidt%253D1%2526oid%253Dhttps%25253A%25252F%25252Fdeveloper.nvidia.com%25252Frdp%25252Fcudnn-download%252523a-collapseTwo%2526ot%253DA%26nvdadevblogs%3D%2526pid%253Dnv%25253Adevblogs%25253Anvidia%25253Aparallelforall%25253Aexplaining-deep-learning-self-driving-car%2526pidt%253D1%2526oid%253Dhttp%25253A%25252F%25252Fwww.nvidia.com%25252Fobject%25252Fautomotive-contact-us.html%2526ot%253DA
+.nvidia.com	TRUE	/	FALSE	0	s_ppv	nv%253Adeveloper%253Anvidia%253Ardp%253Acudnn-download%2C100%2C100%2C1096%2C1857%2C990%2C1920%2C1080%2C1%2CP
